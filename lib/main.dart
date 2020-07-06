@@ -58,7 +58,7 @@ class MyApp extends StatelessWidget {
                     Column(
                       children: <Widget>[
                         const Text(
-                          'youtubeアプリ ver2',
+                          'youtubeアプリ ver3',
                         ),
                         FlatButton(
                           child: Row(
